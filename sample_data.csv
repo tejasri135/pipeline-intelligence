@@ -1,0 +1,6 @@
+file_name,partner,records,errors,status
+enrollments_0601.csv,CardinalHealth,1250,12,success
+claims_0601.csv,CVS,8900,0,success
+enrollments_0602.csv,CardinalHealth,1180,45,failed
+claims_0602.csv,CVS,9100,3,success
+dispense_0602.csv,Walgreens,560,560,failed
